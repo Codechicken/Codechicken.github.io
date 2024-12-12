@@ -3,16 +3,32 @@ layout: page
 title: About
 permalink: /about/
 ---
+## About me
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a graduate of the University of Indianapolis in Software Engineering with minors in Computer Science and Mathematics. 
+I was named Dean's List 3 times and Honor Roll 4 times. I have completed 3 year long projects while at the University as part of the degree requirements.
+I enjoy reading, solving logic problems and programming in my spare time. I enjoy spending time with my extended family.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Knowledge
+# Languages
+* Javascript / Typescript
+* C / C++
+* C#
+* Python
+* Java
+* Rust
+* Prolog
+* SQL
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# Frameworks and other technologies
+* Agile
+* React
+* Jest
+* REST
+* AWS
+* Firebase
+* Design for Six Sigma
 
-
-[jekyll-organization]: https://github.com/jekyll
+# Certifications
+* C++ Certified Professional Programmer
+* Python Certified Professional Programmer
